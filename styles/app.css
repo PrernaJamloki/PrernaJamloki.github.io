@@ -1,15 +1,15 @@
 :root {
-  --color-main: #676cdb;
-  --color-accent: #3aafc9;
+  --color-main: #67dfc7;
+  --color-accent: #064c5c;
   --color-tomato: #f36961;
   --color-orange: #f1b457;
   --color-text: #b1b3b7;
   --color-light: #efefef;
   --color-lighter: #f5f6f7;
-  --color-black: #1c232e;
-  --color-darkest: #29313d;
-  --color-darker: #3a424e;
-  --color-dark: #5c626b;
+  --color-black: #080310;
+  --color-darkest: rgb(90, 90, 195);
+  --color-darker: #0a3036;
+  --color-dark: #101c2d;
   --font-family: 'Overpass', -apple-system, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', sans-serif;
   --font-special: 'Kanit', Arial, sans-serif;
   --font-regular: 400;
